@@ -1,0 +1,27 @@
+{
+  "name": "svglogoproject1",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudrijoshi/SVGlogoproject1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rudrijoshi/SVGlogoproject1/issues"
+  },
+  "homepage": "https://github.com/rudrijoshi/SVGlogoproject1#readme",
+  "keywords": [],
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
