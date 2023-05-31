@@ -52,7 +52,7 @@ const question = [{
         }
         const nSVG =new SVG();
         nSVG.setShape(myObject);
-        nSVG.setText(answers.text, answers.textColor);
+        nSVG.setText(answers.text, answers.color);
         fs.writeFile('logo.svg', nSVG.render(), (error) => 
      error ? console.log(error) : console.log('Generated logo.svg')
         );
