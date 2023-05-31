@@ -40,4 +40,4 @@ To test the functionality, user can use the Jest testing framework and import th
 
 -URL link for the Github repository: https://github.com/rudrijoshi/SVGlogoproject1/
 
--URL link for the screencastify: https://watch.screencastify.com/v/6GYnGR8AVt5vG2dzkqyr
+-URL link for the screencastify: https://watch.screencastify.com/v/mf7Vix9BMebWfAJxc2DF
