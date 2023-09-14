@@ -1,4 +1,4 @@
-# 10 OOP Challenge: SVG Logo Project
+# SVG logo
 
 ## Description
 
@@ -36,8 +36,8 @@ To test the functionality, user can use the Jest testing framework and import th
 
 ## Links
 
--URL link for the deployed Github application: https://rudrijoshi.github.io/SVGlogoproject1/
+-URL link for the deployed Github application: https://rudrijoshi.github.io/SVGlogo/
 
--URL link for the Github repository: https://github.com/rudrijoshi/SVGlogoproject1/
+-URL link for the Github repository: https://github.com/rudrijoshi/SVGlogo/
 
 -URL link for the screencastify: https://watch.screencastify.com/v/mf7Vix9BMebWfAJxc2DF
